@@ -17,4 +17,4 @@ Usage :
     $ rosalunch staticlidar staticlidar.launch
 
 ![im5](https://user-images.githubusercontent.com/16269069/127486007-1ffc4e9f-a48e-4366-b6d7-73c29c4b0a85.jpeg)
-![im7](https://user-images.githubusercontent.com/16269069/127486038-46008a9a-699b-4efa-b295-af045b119d98.jpeg)
+![im6](https://user-images.githubusercontent.com/16269069/127486407-6bdb3bb4-c2af-4daa-bb5f-7ce4c5cab2f9.png)
