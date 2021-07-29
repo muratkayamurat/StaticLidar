@@ -1,6 +1,6 @@
 # StaticLidar
 
-Usage : 
+<h2>Usage :</h2> 
 
 <strong>1- Create a catkin workspace on console ;</strong> <br/>
    $ mkdir catkin_staticlidar <br/>
